@@ -1,6 +1,5 @@
-<h1 align="center">
    ## ✨ My Developer Portfolio Website ⚡️
-</h1>
+
 <h2>
    Welcome!
 </h2>
