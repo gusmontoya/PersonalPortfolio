@@ -1,47 +1,46 @@
-My Developer Portfolio Website ⚡️
-Welcome!
-My portfolio site was built from a Gatsby template, so I took notes on how a more experienced dev sets up front-end data flow for a static site. It was also my first time working with Gatsby, SaSS, and GraphQL.
-
-What I Changed
-Added external Link buttons to the top and bottom of the site
-Added Nav buttons to quickly get to your desired section
-Added a new section for skills and changed section order (this messed with the original formatting quite a bit)
-Built a Contact Form and integrated email notifications through Netlify
-Swapped project images for iframes with project demo videos on YouTube
-Skills feature: I built a component that renders a different image of a burger depending on where on the burger the cursor hovers or clicks. The burger images were created in photoshop. I built one div with the burger nested inside, that has a sibling div (position: absolute, same height and width as the img) with 3 child divs each taking up about one third of that div's height. Those three divs had event listeners that triggered state change in React, which rendered a new burger img and skills set. Each skills set had to be a different component to trigger the animation. My favorite part of the site. 😊 🍔
-What I Learned
-Created CSS Variables in SaSS
-Learned how to use clip-path in CSS
-Gatsby project structure
-Deployed a site to Netlify
-Burger
-Thanks
-Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara for designing this fantastic template. 
-
-
-<p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+   ## ✨ My Developer Portfolio Website ⚡️
 </h1>
-
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
-  </a>
-  <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
-  </a>
-  <a href="https://www.lekoarts.de?utm_source=cara&utm_medium=Starter">
-    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
+<h2>
+   Welcome!
+</h2>
+<p>
+My portfolio site was built from a Gatsby template, so I took notes on how a more experienced dev sets up front-end data flow for a static site. It was also my first time working with Gatsby, SaSS, and GraphQL.
 </p>
+<h2>
+   What I Changed
+</h2>
+  - Added external Link buttons to the top and bottom of the site
+  - Added Nav buttons to quickly get to your desired section
+  - Added a new section for skills and changed section order (this messed with the original formatting quite a bit)
+  - Built a Contact Form and integrated email notifications through Netlify
+  - Swapped project images for iframes with project demo videos on YouTube
+  - Skills feature: I built a component that renders a different image of a burger depending on where on the burger the cursor
+    hovers or clicks. The burger images were created in photoshop. I built one div with the burger nested inside, that has a
+    sibling div (position: absolute, same height and width as the img) with 3 child divs each taking up about one third of that 
+    div's height. Those three divs had event listeners that triggered state change in React, which rendered a new burger img
+    and skills set. Each skills set had to be a different component to trigger the animation. My favorite part of the site. 😊
+    🍔
+  
+  <h2>
+   What I Learned
+  </h2>
+    - Created CSS Variables in SaSS
+    - Learned how to use clip-path in CSS
+    - Gatsby project structure
+    - Deployed a site to Netlify
+
+    <a src="" href="/">Burger</a>
+<h2>
+   Thanks
+</h2>
+    <p align="center">
+Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara for designing this fantastic template. 
+      <a src="" href="/">
+        <img alt="Gatsby Starter Portfolio: Cara" src="" />
+      </a>
+    </p>
+--------------------------------------------------------
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
