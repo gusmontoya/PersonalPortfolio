@@ -1,14 +1,11 @@
    ## ✨ My Developer Portfolio Website ⚡️
 
-<h2>
    Welcome!
-</h2>
-<p>
+
 My portfolio site was built from a Gatsby template, so I took notes on how a more experienced dev sets up front-end data flow for a static site. It was also my first time working with Gatsby, SaSS, and GraphQL.
-</p>
-<h2>
-   What I Changed
-</h2>
+
+## What I Changed
+
   - Added external Link buttons to the top and bottom of the site
   - Added Nav buttons to quickly get to your desired section
   - Added a new section for skills and changed section order (this messed with the original formatting quite a bit)
@@ -20,10 +17,9 @@ My portfolio site was built from a Gatsby template, so I took notes on how a mor
     div's height. Those three divs had event listeners that triggered state change in React, which rendered a new burger img
     and skills set. Each skills set had to be a different component to trigger the animation. My favorite part of the site. 😊
     🍔
+    
+ ## What I Learned
   
-  <h2>
-   What I Learned
-  </h2>
     - Created CSS Variables in SaSS
     - Learned how to use clip-path in CSS
     - Gatsby project structure
