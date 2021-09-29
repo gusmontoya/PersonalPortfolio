@@ -29,12 +29,10 @@ My portfolio site was built from a Gatsby template, so I took notes on how a mor
 
 ## Thanks
 
-    <p align="center">
 Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara for designing this fantastic template. Here's what the template looked like if you're curious:
       <a src="" href="/">
         <img alt="Gatsby Starter Portfolio: Cara" src="" />
       </a>
-    </p>
 --------------------------------------------------------
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
