@@ -33,4 +33,3 @@ Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara f
    <img src="https://media.giphy.com/media/OorCR8bWKcq0SbFlpZ/giphy.gif?cid=790b7611e43845aac1511b50f83a85683ed917752037a564&rid=giphy.gif&ct=g" alt="Gatsby Starter Portfolio: Cara" width="600px" />
   <br>
 </h2>
->>>>>>> f8baff0c5d93c79220f8d1ad8a45e7b597dd1ad8
