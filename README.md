@@ -4,11 +4,11 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  My Developer Portfolio Website ⚡️
 </h1>
 
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
+<!--<p align="center">
+   <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
   </a>
   <a href="https://github.com/sponsors/LekoArts">
@@ -16,15 +16,65 @@
   </a>
   <a href="https://www.lekoarts.de?utm_source=cara&utm_medium=Starter">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
+  </a> 
+</p>-->
+<h2>
+Welcome! 
+</h2>
+<p>
+My portfolio site was built from a Gatsby template. Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara). I took notes on how a more experienced dev sets up front-end data flow for a static site. It was also my first time working with Gatsby, SaSS, and GraphQL.
 </p>
+<h2>
+What I Changed
+</h2>
+<ul>
+  <li>
+    Added external Link buttons to the top and bottom of the site
+  </li>
+  <li> 
+    Added Nav buttons to quickly get to your desired section
+  </li>
+  <li>
+    Added a new section for skills and changed section order (this messed with the original formatting quite a bit) 
+  </li>
+  <li>
+    Built a Contact Form and integrated email notifications through Netlify 
+  </li>
+  <li>
+    Swapped project images for iframes with project demo videos on YouTube 
+  </li>
+  <li>
+    Skills feature: I built a component that renders a different image of a burger depending on where on the burger the cursor hovers or clicks. The burger images were created in photoshop. I built one div with the burger nested inside, that has a sibling div (position: absolute, same height and width as the img) with 3 child divs each taking up about one third of that div's height. Those three divs had event listeners that triggered state change in React, which rendered a new burger img and skills set. Each skills set had to be a different component to trigger the animation. My favorite part of the site. 😊 🍔 
+  </li>
+  <h2>
+    What I Learned 
+  </h2>
+  <ul>
+    <li>
+      Created CSS Variables in SaSS 
+    </li>
+    <li>
+      Learned how to use clip-path in CSS 
+    </li>
+    <li>
+      Gatsby project structure 
+    </li>
+    <li>
+      Deployed a site to Netlify 
+    </li>
+    <li>
+      Burger 
+    </li>
+    <h2>
+      Thanks 
+    </h2>
+      <p>
+        Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara for designing this fantastic template.
+      </p>
+      <p>
+        Here's what the template looked like before, if you're curious:
 
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-[**Demo Website**](https://cara.lekoarts.de)
 
 Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter).
 
