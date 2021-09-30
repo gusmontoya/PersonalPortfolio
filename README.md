@@ -30,6 +30,7 @@ My portfolio site was built from a Gatsby template, so I took notes on how a mor
 ## Thanks
 
 Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara for designing this fantastic template. Here's what the template looked like if you're curious:
-      <a src="" href="/">
-        <img alt="Gatsby Starter Portfolio: Cara" src="" />
-      </a>
+  <h2 align="center">
+   <img src="https://media.giphy.com/media/OorCR8bWKcq0SbFlpZ/giphy.gif?cid=790b7611e43845aac1511b50f83a85683ed917752037a564&rid=giphy.gif&ct=g" alt="Gatsby Starter Portfolio: Cara" width="600px" />
+  <br>
+</h2>
