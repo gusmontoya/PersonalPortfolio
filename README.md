@@ -25,8 +25,6 @@ My portfolio site was built from a Gatsby template, so I took notes on how a mor
     - Gatsby project structure
     - Deployed a site to Netlify
 
-    <a src="" href="/">Burger</a>
-
 ## Thanks
 
 Thanks to LekoArts - https://github.com/LekoArts/gatsby-starter-portfolio-cara for designing this fantastic template. Here's what the template looked like if you're curious:
