@@ -8,7 +8,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Gus Montoya | Dev`,
   },
   plugins: [
     {
@@ -34,12 +34,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/dev.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/dev.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
